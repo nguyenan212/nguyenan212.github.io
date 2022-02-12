@@ -1,0 +1,36 @@
+.top{
+    background-color: rgb(199, 203, 207);
+    text-align: center;
+}
+#img-div{
+    text-align: center;
+
+}
+#image{
+    width: 70%;
+    margin-left: 1in;
+    margin-right: 1in;
+}
+#tribute-info{
+    text-align: center;
+}
+.info{
+    background-color: rgb(196, 199, 201);
+}
+.a{
+    text-align: left;
+    margin-left: 4in;
+    margin-right: 4in;
+    justify-content: center;
+}
+.b{
+    text-align: left;
+    margin-left: 4.3in;
+    margin-right: 4.5in;
+    justify-content: center;
+}
+.bottom{
+    text-align: center;
+    margin-left: 2.5in;
+    font-size: 20px;
+}
